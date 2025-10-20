@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Hi Dear, Welcome to My World</h1>
+<h1 align="center">Hey Yoo, Welcome to My World</h1>
 
 ###
 
@@ -47,6 +47,10 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
 </div>
 
 ###
